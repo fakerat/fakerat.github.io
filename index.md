@@ -43,18 +43,14 @@ keywords: Fakerat, device, technology, android, software, linux, windows
   <p>Linux and symbian have had a lower base user compared to their main counterparts- Macintosh OS, IOS/Android respectively. While the former is increasing its user base in desktop environments and is slightly newer in mobile, the latter has now become obsolete. However there are users which are loyal to Symbian ever since its launch in early 2000s it enjoyed its dominance until the Android overtook it and has now become almost defunct, thanks to Microsoft help:disappointed:.</p>
   <p>Many users are hesitant to use Linux "because of the complicated commands that need to be sent using terminal, and that linux has no graphical user interface". This is a misconception is clearly not true. In fact many linux distributions are very user friendly and have integrated most features such as start menu basic settings similarly to windows and usage is now almost similar. Its high time for people to start getting used to linux, as it is a beautifully designed open source software that has a plethora of features ready for exploration. .</p>
 
-</section>
-
-</div>
-</div>
 
 
 
   <!-- Footer -->
-								<footer id="footer">
-									<p class="copyright">&copy; A fakerat Inc production. All rights reserved.
-								</footer>
-  </div>
-</div>
 
-</div
+  [CC BY](https://creativecommons.org/licenses/by/3.0/).
+
+  [![CC BY](https://i.creativecommons.org/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
+
+
+			 A fakerat Inc production. All rights reserved.
