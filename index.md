@@ -50,3 +50,7 @@ keywords: Fakerat, device, technology, android, software, linux, windows
 								<footer id="footer">
 									<p class="copyright">&copy; A fakerat Inc production. All rights reserved.
 								</footer>
+  </div>
+</div>
+
+</div
