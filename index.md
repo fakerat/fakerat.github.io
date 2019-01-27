@@ -18,8 +18,11 @@ keywords: Fakerat, device, technology, android, software, linux, windows
 </div>
 
   ---
-  ![Tech](/images/connectivity.png)
+              
   
+  <p align="center">
+  <img width="460" height="300" src="https://i.stack.imgur.com/X14jE.png/460/300">
+</p>
   
   <p>Welcome to the home of technology blogs where articles, tutorials and general information pertaining to the day to day usage of Android, windows , linux as well as symbian operating softwares.
 
