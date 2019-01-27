@@ -6,7 +6,5 @@ Useful information and tutorials for android regular and power users, windows an
 Useful information and tutorials for android regular and powerusers, windows and many tech entusiasts.
 
 
-Favourite Posts:
 
-[Various ways of achieving reverse tethering](https://android.stackexchange.com/a/171049/209414) Posted Mar 2017
 >>>>>>> origin/master
