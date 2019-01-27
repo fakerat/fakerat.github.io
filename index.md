@@ -5,10 +5,12 @@ description: Xavier Fakerat is a technology enthusiast and a software analyst. H
 keywords: Fakerat, device, technology, android, software, linux, windows
 ---
 
+<a href="https://stackexchange.com/users/10230328/xavier-fakerat"><img src="https://stackexchange.com/users/flair/10230328.png" width="208" height="58" alt="profile for xavier_fakerat on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for xavier_fakerat on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://stackexchange.com/users/10230328/xavier-fakerat"><img src="https://stackexchange.com/users/flair/10230328.png" width="208" height="58" alt="profile for xavier_fakerat on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for xavier_fakerat on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
           <li><a href="https://fakerat.github.io">home</a></li>
           <li><a href="https://github.com/fakerat">github</a></li>
       </ul>
@@ -17,3 +19,9 @@ keywords: Fakerat, device, technology, android, software, linux, windows
 
   ---
   ### <a name="Home"></a>Resources
+
+
+  <!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; A fakerat Inc production. All rights reserved.
+								</footer>
