@@ -18,9 +18,13 @@ keywords: Fakerat, device, technology, android, software, linux, windows
 </div>
 
   ---
-  <p>Welcome to the home of technlogy blogs where articles, tutorials and general information pertaining to the the day to day usage of Android, windows , linux as well as symbian operating softwares. This site also includes useful general information with repect to daily usage of technology  everywhere to meet our needs.</p>
-  <p>The main purposes of the articles is to provide easy walkthrough and troubleshooting steps for individuals who have less knowledge to solve a particular problem. While these may not solve everyone's needs the editor together with the feedback recieved, is constantly striving to make the articles as more understandable as possible and provide a scaffold which will be useful to tackle a given problem.</p>
-  <p>Any contructive feedback will be taken into consideration to ensure that future articles as as consise as possible to ensure benefit of the less tech-savy individuals. Thisis still a faily new blog website and as time goes on more useful articles will be posted. Below is a brief rundown of topics overview</p>
+  <p>Welcome to the home of technology blogs where articles, tutorials and general information pertaining to the day to day usage of Android, windows , linux as well as symbian operating softwares.
+
+  This site also includes useful general information with respect to daily usage of technology  everywhere to meet our needs.</p>
+
+  <p>The main purposes of the articles is to provide easy walkthrough and troubleshooting steps for individuals who have less knowledge to solve a particular problem. While these may not solve everyone's needs the editor together with the feedback received, is constantly striving to make the articles as more understandable as possible and provide a scaffold which will be useful to tackle a given problem.</p>
+
+  <p>Below is a brief rundown of topics overview</p>
   <hr class="major" />
 
   <h2>Android</h2>
@@ -30,14 +34,14 @@ keywords: Fakerat, device, technology, android, software, linux, windows
   <hr class="major" />
 
   <h2>Windows</h2>
-  <p>Windows is the most widely used and perhaps the oldest operating system for computers and its coverage has been extended to mobile devices. It is unarguably the most versatile and user user friendly operating system in computers. It is continally being updated and maintained infortunately this doesn't make it any resistant to error, in fact most Windows who regulary updates the feature often complain about previous features being broken down after updates. It is understandable for Microsoft to continually give its users patches and security for making Windows stable and more secure, however the end users often pays the prize as their privacy is comprimised through telemetry data collection without user consent which has caused some people to desert this operating software.  </p>
+  <p>Windows is the most widely used and perhaps the oldest operating system for computers and its coverage has been extended to mobile devices. It is unarguably the most versatile and user  friendly operating system in computers. It is continually being updated and maintained unfortunately this doesn't make it any resistant to error, in fact most Windows who regulary updates the feature often complain about previous features being broken down after updates. It is understandable for Microsoft to continually give its users patches and security for making Windows stable and more secure, however the end users often pays the prize as their privacy is compromised through telemetry data collection without user consent which has caused some people to desert this operating software.  </p>
 
 
   <hr class="major" />
 
   <h2>Linux and Symbian</h2>
-  <p>Linux and symbian have had a lower base user compared to their main counterparts- Macintosh OS, IOS/Android respectively.While the former is increasing its user base in desktop environments and is slightly newer in mobile, the latter has now become obselete. However there are users which are loyal to Symbian ever since its launch in early 2000s it enjoyed its its dominance until the Android overtook it and has nw become almost defunct, thanks to Microsoft help.</p>
-  <p>Many users are hesitant to use Linux "because of the complicated commands that need to be sent using terminal, and that linux has no graphical user interface". This is a misconception is clearly not true. In fact many linux distributions are very user friendly and have intergrated most features such as start menu basic settings similarly to windows and usage is now almost similar. Its high time for people to start getting used to linux, as it is a beautifully designed open source software that has a plethor of features ready for exploration. .</p>
+  <p>Linux and symbian have had a lower base user compared to their main counterparts- Macintosh OS, IOS/Android respectively. While the former is increasing its user base in desktop environments and is slightly newer in mobile, the latter has now become obsolete. However there are users which are loyal to Symbian ever since its launch in early 2000s it enjoyed its dominance until the Android overtook it and has now become almost defunct, thanks to Microsoft help:disappointed:.</p>
+  <p>Many users are hesitant to use Linux "because of the complicated commands that need to be sent using terminal, and that linux has no graphical user interface". This is a misconception is clearly not true. In fact many linux distributions are very user friendly and have integrated most features such as start menu basic settings similarly to windows and usage is now almost similar. Its high time for people to start getting used to linux, as it is a beautifully designed open source software that has a plethora of features ready for exploration. .</p>
 
 </section>
 
