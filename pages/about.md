@@ -9,3 +9,7 @@ Xavier Fakerat is a technology enthusiast and a software analyst. He is been mai
 <p align="center">
 <img width="460" height="300" src="https://i.stack.imgur.com/X14jE.png/460/300">
 </p>
+
+Other hobbies
+
+- Graphics designing

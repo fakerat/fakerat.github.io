@@ -24,11 +24,7 @@ keywords: Fakerat, device, technology, android, software, linux, windows
   <img width="460" height="300" src="https://i.stack.imgur.com/xqGvr.png/460/300">
 </p>
 
-  <p>Welcome to the home of technology blogs where articles, tutorials and general information pertaining to the day to day usage of Android, windows , linux as well as symbian operating softwares.
-
-  This site also includes useful general information with respect to daily usage of technology  everywhere to meet our needs.</p>
-
-  <p>The main purposes of the articles is to provide easy walkthrough and troubleshooting steps for individuals who have less knowledge to solve a particular problem. While these may not solve everyone's needs the editor together with the feedback received, is constantly striving to make the articles as more understandable as possible and provide a scaffold which will be useful to tackle a given problem.</p>
+  Minimalistic website of technology blogs where articles, tutorials and general information pertaining to the day to day usage of Android, windows , linux as well as symbian operating softwares.
 
   <p>Below is a brief rundown of topics overview</p>
   <hr class="major" />
