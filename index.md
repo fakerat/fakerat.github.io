@@ -27,19 +27,19 @@ keywords: Fakerat, device, technology, android, software, linux, windows
   Minimalistic website of technology blogs where articles, tutorials and general information pertaining to the day to day usage of Android, windows , linux as well as symbian operating softwares.
 
   <p>Below is a brief rundown of topics overview</p>
-  <hr class="major" />
+  <hr class="minor" />
 
   <h2>Android</h2>
   <p>Android is the most popular used operating software in many mobile and hand devices including phones, phablets, tablets and is beginning to make its mark in desktop environments too. Projects like the Remix OS for desktop are  likely going to take the dominance of Android OS in nearly all gadgets in the future. Besides being the popular, many Android users often encounter problems that they don't normally know how to fix and on the other hand, some don't know how to fully utilise the power of Android locked inside their mobile gadget..</p>
 
 
-  <hr class="major" />
+  <hr class="minor" />
 
   <h2>Windows</h2>
   <p>Windows is the most widely used and perhaps the oldest operating system for computers and its coverage has been extended to mobile devices. It is unarguably the most versatile and user  friendly operating system in computers. It is continually being updated and maintained unfortunately this doesn't make it any resistant to error, in fact most Windows who regulary updates the feature often complain about previous features being broken down after updates. It is understandable for Microsoft to continually give its users patches and security for making Windows stable and more secure, however the end users often pays the prize as their privacy is compromised through telemetry data collection without user consent which has caused some people to desert this operating software.  </p>
 
 
-  <hr class="major" />
+  <hr class="minor" />
 
   <h2>Linux and Symbian</h2>
   <p>Linux and symbian have had a lower base user compared to their main counterparts- Macintosh OS, IOS/Android respectively. While the former is increasing its user base in desktop environments and is slightly newer in mobile, the latter has now become obsolete. However there are users which are loyal to Symbian ever since its launch in early 2000s it enjoyed its dominance until the Android overtook it and has now become almost defunct, thanks to Microsoft help :disappointed: </p>
