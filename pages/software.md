@@ -14,7 +14,7 @@ description: Xavier's software
 
 ---
 
-Here you find some pieces of software I have been working, and they are absolutely free for educational use.
+Here you find some pieces of software I have been working on, and they are absolutely free for educational use.
 
 
 #### <a name="qtl"></a>[MCAZ register](https://androidfilehost.com/?fid=6006931924117897701)
