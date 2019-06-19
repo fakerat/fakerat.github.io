@@ -8,12 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
+
 title : Xavier Fakerat
 author :
   name : Xavier Fakerat
   email : null
   github : fakerat
   feedburner : nil
+  theme: jekyll-theme-architect
 
 production_url : https://fakerat.github.io
 
