@@ -23,7 +23,11 @@ A database listing registered medicines that are approved the Medicines Control 
 
 New entries are constantly added (or modified as necessary by responsible persons) receive. Users are required to manually sync to receive new updates. Feedback is welcome.
 
+#### <a name="qtl"></a>[PGH Medicines Availiability List (restricted users)](https://androidfilehost.com/?)
+A simple guide for hospital clinicians to check the medicines available at Parirenyatwa Hospital at a given time. Entries updated week;y
 
+#### <a name="qtl"></a>[rat's clache cleaner (experimental-root required)](https://androidfilehost.com/?)
+A non-UI tool to clear the device cachememory at the tap on the button. Issues quick commands via terminal
 
 
 
