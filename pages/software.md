@@ -32,4 +32,4 @@ New entries are constantly added (or modified as necessary by responsible person
 
 If you like my work please support me for future projects by donating whatever you wish. Thanks
 
-<a href='https://www.paynow.co.zw/Payment/BillPaymentLink/?q=aWQ9Nzc4MyZhbW91bnQ9MC4wMCZhbW91bnRfcXVhbnRpdHk9MC4wMCZsPTA%3d' target='_blank'><img src='https://www.paynow.co.zw/Content/Buttons/Medium_buttons/button_donate_medium.png' style='border:0' /></a>
+<a href='https://www.paynow.co.zw/Payment/BillPaymentLink/?q=aWQ9Nzc5NiZhbW91bnQ9My4wMCZhbW91bnRfcXVhbnRpdHk9MC4wMCZsPTE%3d' target='_blank'><img src='https://www.paynow.co.zw/Content/Buttons/Medium_buttons/button_donate_medium.png' style='border:0' /></a>
