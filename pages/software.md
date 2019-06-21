@@ -26,8 +26,8 @@ New entries are constantly added (or modified as necessary by responsible person
 #### <a name="qtl"></a>[PGH Medicines Availiability List-beta (restricted users)](https://androidfilehost.com/?)
 A simple guide for hospital clinicians to check the medicines available at Parirenyatwa Hospital at a given time. Entries updated weekly
 
-#### <a name="qtl"></a>[rat's clache cleaner (experimental-root required)](https://androidfilehost.com/?)
-A non-UI tool to clear the device cachememory at the tap on the button. Issues quick commands via terminal
+#### <a name="qtl"></a>[rat's cache cleaner (experimental-root required)](https://androidfilehost.com/?fid=6006931924117900398)
+A non-UI tool to clear the device cache memory at the tap on the button. Issues quick commands via terminal
 
 
 
