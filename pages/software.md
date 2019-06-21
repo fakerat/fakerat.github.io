@@ -35,6 +35,6 @@ A non-UI tool to clear the device cache memory at the tap on the button. Issues 
 
 
 
-*If you like my work please support me for future projects by donating whatever you wish. Thanks*
+*If you like my work please support me for future projects by donating whatever amount you wish. Thanks*
 
 <a href='https://www.paynow.co.zw/Payment/BillPaymentLink/?q=aWQ9Nzc5NiZhbW91bnQ9MC4wMCZhbW91bnRfcXVhbnRpdHk9MC4wMCZsPTA%3d' target='_blank'><img src='https://www.paynow.co.zw/Content/Buttons/Medium_buttons/button_donate_medium.png' style='border:0' /></a>
