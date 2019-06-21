@@ -19,6 +19,15 @@ Here you find some pieces of software I have been working on, and they are absol
 
 #### <a name="qtl"></a>[MCAZ register](https://androidfilehost.com/?fid=6006931924117897701)
 
+#### Preview
+<p align="left">
+  <img src="https://github.com/fakerat/fakerat.github.io/blob/master/assets/IMG_20190524_191827.png" width="200px" height="350px"/> </p<p align="center">
+  <img src="https://github.com/fakerat/fakerat.github.io/blob/master/assets/mcaz_detail.png" width="200px" height="350px"/>
+</p<p align="right">
+  <img src="https://github.com/fakerat/fakerat.github.io/blob/master/assets/mcaz_logosync.png" width="200px" height="350px"/>
+  
+  
+ 
 A database listing registered medicines that are approved the Medicines Control Authority of Zimbabwe. This application is free for personal use, but modications are prohibited.
 
 New entries are constantly added (or modified as necessary by responsible persons) receive. Users are required to manually sync to receive new updates. Feedback is welcome.
