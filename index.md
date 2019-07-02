@@ -50,9 +50,9 @@ keywords: Fakerat, device, technology, android, software, linux, windows
 
   <!-- Footer -->
 
-  [CC BY](https://creativecommons.org/licenses/by/3.0/).
+  [CC BY-NC-ND 4.0]https://creativecommons.org/licenses/by-nc-nd/4.0/.
 
-  [![CC BY](https://i.creativecommons.org/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
+  [![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
 			 A fakerat Inc production. All rights reserved.
