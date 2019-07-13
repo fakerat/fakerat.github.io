@@ -21,7 +21,7 @@ keywords: Fakerat, device, technology, android, software, linux, windows
 
 
   <p align="center">
-  <img width="460" height="300" src="https://i.stack.imgur.com/xqGvr.png/460/300">
+  <img width="460" height="300" src="https://i.stack.imgur.com/7cf0L.png/460/300">
 </p>
 
   Minimalistic website of technology blogs where articles, tutorials and general information pertaining to the day to day usage of Android, windows , linux as well as symbian operating softwares.
