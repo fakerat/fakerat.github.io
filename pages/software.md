@@ -14,7 +14,7 @@ description: Xavier's software
 
 ---
 <p align="center">
-<img width="230" height="150" src="https://i.stack.imgur.com/Bf18W.png/230/1500">
+<img width="230" height="150" src="https://i.stack.imgur.com/6IVSn.png/230/1500">
 </p>
 
 Here you find some pieces of software I have been working on, and they are absolutely free for educational use.
