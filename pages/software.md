@@ -20,14 +20,14 @@ description: Xavier's software
 Here you find some pieces of software I have been working on, and they are absolutely free for educational use.
 
 
-#### <a name="qtl"></a>[MCAZ register](https://www.androidfilehost.com/?fid=6006931924117902265)
+### <a name="qtl"></a>[MCAZ register](https://www.androidfilehost.com/?fid=6006931924117902265)
 
 
 A database listing registered medicines that are approved the Medicines Control Authority of Zimbabwe. This application is free for personal use, but modications are prohibited.
 
 New entries are constantly added (or modified as necessary by responsible persons) receive. Users are required to manually sync to receive new updates. Feedback is welcome.
 
-#### <a name="qtl"></a>[PGH Medicines Availiability List-beta (restricted users)](https://androidfilehost.com/?)
+### <a name="qtl"></a>[PGH Medicines Availiability List-beta (restricted users)](https://androidfilehost.com/?)
 A simple guide for hospital clinicians to check the medicines available at Parirenyatwa Hospital at a given time. Entries updated weekly
 
 #### <a name="qtl"></a>[rat's cache cleaner (experimental-root required)](https://androidfilehost.com/?fid=6006931924117900398)
