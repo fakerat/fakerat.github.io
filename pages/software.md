@@ -34,7 +34,7 @@ A simple guide for hospital clinicians to check the medicines available at Parir
 A non-UI tool to clear the device cache memory at the tap on the button. Issues quick commands via terminal
 
 
-### Other related tools and sites
+#### Other related tools and sites
 
 NB: I am not affliated with any of the below sites or resources pertaining thereof but just wish to point out important resources that can assists medical personnel.
 
