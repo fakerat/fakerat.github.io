@@ -38,12 +38,12 @@ A non-UI tool to clear the device cache memory at the tap on the button. Issues 
 
 NB: I am not affliated with any of the below sites or resources pertaining thereof but just wish to point out important resources that can assists medical personnel.
 
-### <a name="qtl"></a>[MyCpdZw](https://www.mycpdzw.org/)
+#### <a name="qtl"></a>[MyCpdZw](https://www.mycpdzw.org/)
 
 MyCpdZw is a website that proves medical education, has online tools such as the library and provides education material for medical professionals in partnership with the Ministry of Health and Child Care. It also comes with clinical decision support tools such as EDLIZ. It is also provides a mobile application [mycpdzw](https://www.mycpdzw.org/public/MyCpdZw.apk) which is accessible from the site or from  playstore/appstore.
 
 
-### <a name="qtl"></a>[Mednetwork]( https://www.medicalnetworkafrica.com/)
+#### <a name="qtl"></a>[Mednetwork]( https://www.medicalnetworkafrica.com/)
 
 MedNetwork is platform that links medical service providers and patients. It gives information about service providers on the network and their related services. They also provide handy  mobile applications for both android and ios devices.
 
