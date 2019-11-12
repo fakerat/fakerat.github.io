@@ -23,7 +23,7 @@ Here you find some pieces of software I have been working on, and they are absol
 ##### <a name="qtl"></a>[MCAZ register](https://www.androidfilehost.com/?fid=6006931924117902265)
 
 
-A database listing registered medicines that are approved the Medicines Control Authority of Zimbabwe. This application is free for personal use, but modications are prohibited.
+A database listing registered medicines that are approved the Medicines Control Authority of Zimbabwe. This application is free for personal use, but modifications are prohibited.
 
 New entries are constantly added (or modified as necessary by responsible persons) receive. Users are required to manually sync to receive new updates. Feedback is welcome.
 
