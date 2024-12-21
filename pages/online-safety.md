@@ -4,14 +4,6 @@ title: Protecting Yourself from Malware and Trackers Online
 description: Xavier's software
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="https://github.com/fakerat">github</a></li>
-        </ul>
-    </div>
-</div>
-
 ---
 <p align="center">
 <img width="640" height="410" src="https://i.sstatic.net/BOyGEfGz.webp">
