@@ -37,7 +37,7 @@ VPN When it comes to choosing a VPN service, there are countless options availab
 
 In summary..
 
-![](https://github.com/fakerat/fakerat.github.io/tree/master/hideme_VPN_video_meme.mp4)
+![](https://github.com/fakerat/fakerat.github.io/blob/master/assets/hideme-VPN-video-meme.gif)
 
 NB: This is a sponsored article 
 
