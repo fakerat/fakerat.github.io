@@ -39,6 +39,8 @@ In summary..
 
 ![](https://github.com/fakerat/fakerat.github.io/blob/master/assets/hideme-VPN-video-meme.gif)
 
+<img src="https://github.com/fakerat/fakerat.github.io/blob/master/assets/hideme-VPN-video-meme.gif" width="40" height="40" />
+
 NB: This is a sponsored article 
 
 
