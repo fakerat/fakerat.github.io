@@ -57,7 +57,7 @@ In summary..
 <img width="400" height="393" src="https://i.sstatic.net/7AHw7Qge.jpg">
 
 NB: This is a sponsored article 
-</p>
+
 
 
 
