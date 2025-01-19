@@ -64,7 +64,7 @@ hide.me VPN offers excellent customer support to assist users with any issues or
 
 In summary..
 
-<img width="400" height="393" src="https://github.com/fakerat/fakerat.github.io/blob/master/images/hide-me.jpg">
+<img width="400" height="393" src="https://i.sstatic.net/JpadVg02.webp">
 
 NB: This post includes products or services that may directly or indirectly provide incentives to the author.
 
