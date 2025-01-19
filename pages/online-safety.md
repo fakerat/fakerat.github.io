@@ -25,11 +25,12 @@ To effectively protect yourself from malware and trackers online using a VPN, it
 VPN When it comes to choosing a VPN service, there are countless options available on the market. One popular choice among users is [hide.me VPN](https://hide.me/en/), known for its strong security features and privacy protection. Here’s a review of userful features that it offers to privacy consious users:
 </p>  
 
-<p align="justify">
+
  
  **Security and Privacy**
+ 
  hide.me VPN boasts top-notch security measures to ensure your data remains safe and secure while browsing the internet. With AES-256 encryption and a strict no-logs policy, users can trust that their online activities are kept private and anonymous. Additionally, hide.me VPN offers leak protection to prevent any sensitive information from being exposed. 
-</p>
+
 
 <p align="justify">
  
