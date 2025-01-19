@@ -55,6 +55,7 @@ hide.me VPN offers excellent customer support to assist users with any issues or
 - Split Tunneling: hide.me VPN offers split tunneling functionality, allowing users to choose which traffic goes through the VPN and which doesn't. This feature provides flexibility and customization for users based on their specific needs.
 - Multi-Platform Support: In addition to the major operating systems, hide.me VPN extends its support to routers, smart TVs, and even gaming consoles. This wide range of compatibility ensures that users can protect their online activities across all devices.
 </p>
+  
   <p align="justify">
    
 **Advanced Protocols**
@@ -66,7 +67,7 @@ In summary..
 
 <img width="400" height="393" src="https://i.sstatic.net/JpadVg02.webp">
 
-NB: This post includes products or services that may directly or indirectly provide incentives to the author.
+ <sup>NB:This post includes products or services that may directly or indirectly provide incentives to the author.<sup></sup>
 
 
 
