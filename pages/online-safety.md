@@ -3,7 +3,7 @@ layout: page
 title: Protecting Yourself from Malware and Trackers Online
 description: Xavier's software
 ---
-
+<a href="https://stackexchange.com/users/10230328"><img src="https://stackexchange.com/users/flair/10230328.png" width="208" height="58" alt="profile for xavier_fakerat on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for xavier_fakerat on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 ---
 <p align="center">
 <img width="640" height="410" src="https://i.sstatic.net/BOyGEfGz.webp">
